@@ -1,4 +1,25 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Atri Sarker
+* Created on: June 2024
+* This file contains the css for the index page of Assign-05-FibbonacciFrenzy
 */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d1eaa4;
+  margin: 0;
+  padding: 8px;
+  color: #232031;
+}
+
+h1 {
+  color: #0a5575;
+}
+
+.contentImg {
+  width: 100px;
+  height: auto;
+}
+
+#outputResult {
+  font-size: 28px;
+  color: #ff2e2e
+}
