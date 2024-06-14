@@ -13,6 +13,8 @@
     // Get Operator
     $chosenOperator = $_POST["chosenOperator"];
 
+    
+    // Create function for each operator
     function addition($num1, $num2) {
       return $num1 + $num2;
     }
@@ -23,7 +25,7 @@
       return $num1 * $num2;
     }
 
-    // Match evaluateFunction with operator
+    // Match evaluateFunction with operator function
     $evaluateFunction = $chosenOperator;
 
     // Get Starting Numbers

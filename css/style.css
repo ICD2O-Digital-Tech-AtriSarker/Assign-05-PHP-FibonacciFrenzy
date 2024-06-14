@@ -4,14 +4,14 @@
 */
 body {
   font-family: Arial, sans-serif;
-  background-color: #d1eaa4;
+  background-color: #169fa2;
   margin: 0;
   padding: 8px;
-  color: #232031;
+  color: #322669;
 }
 
 h1 {
-  color: #0a5575;
+  color: #750a0a;
 }
 
 .contentImg {
@@ -21,5 +21,5 @@ h1 {
 
 #outputResult {
   font-size: 28px;
-  color: #ff2e2e
+  color: #ffb22e
 }
